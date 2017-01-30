@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ElMachineTestApp</string>
+
+    <string name="client_id">Client-ID 6816e76cf304bb4</string>
+    <string name="user_agent">ELMachineTestApp</string>
+    <string name="downloadUrl">https://api.imgur.com/3/gallery/user/botalov/0.json</string>
+    
+    <string name="baseimageUrl">https://i.imgur.com/</string>
+
+    <string name="buttonText">Покажи мне картинки! :-)</string>
+    <string name="internet_error">Чтобы посмотреть картинки подключите интернет</string>
+
+</resources>
